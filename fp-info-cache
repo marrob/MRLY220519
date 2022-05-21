@@ -1,4 +1,4 @@
-34713895412003
+34600436939378
 Passive
 C0603
 
@@ -49,6 +49,13 @@ inductor
 2
 2
 Passive
+LED RAD GRE 3mm
+
+
+0
+2
+2
+Passive
 LED0603 BLU
 
 LED
@@ -92,13 +99,6 @@ NINGI 5MS1
 3
 Passive
 OMRON B3F-3100
-
-
-0
-4
-2
-Passive
-OMRON G6H-2-100
 
 
 0
