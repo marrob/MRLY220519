@@ -1,4 +1,4 @@
-103819039313379
+105796633292599
 Connectors
 CLIFF FC68148
 
@@ -28,35 +28,35 @@ DIN41612 3x32 Female Horizontal THT
 96
 96
 Connectors
-PinHeader 1x01 P2.54mm Horizontal
+PinHeader 01x01 P2.54 Horizontal
 
 
 0
 1
 1
 Connectors
-PinHeader 1x01 P2.54mm Vertical
+PinHeader 01x01 P2.54 Vertical
 
 
 0
 1
 1
 Connectors
-PinHeader 1x02 P2.54mm Vertical
+PinHeader 01x02 P2.54 Vertical
 
 
 0
 2
 2
 Connectors
-PinHeader 1x06 P2.54mm Horizontal
+PinHeader 01x06 P2.54 Horizontal
 
 
 0
 6
 6
 Connectors
-PinHeader 1x06 P2.54mm Vertical
+PinHeader 01x06 P2.54 Vertical
 
 
 0
@@ -70,14 +70,21 @@ T-T USB-B-04PFHTW, Lumberg_2411_02
 6
 5
 Connectors
-Terminal Block 1x06 P3.81 Straight
+Terminal Block 01x06 P3.81 Vertical
 
 
 0
 6
 6
 Connectors
-Terminal Block 1x08 P3.81 Straight
+Terminal Block 01x08 P3.81 Horizontal
+
+
+0
+8
+8
+Connectors
+Terminal Block 01x08 P3.81 Vertical
 
 
 0
@@ -111,6 +118,13 @@ OMRON B3F-3100
 0
 4
 2
+Others
+OMRON G6H-2-100
+
+
+0
+10
+10
 Others
 POWERTIP NPC2004
 4x20,  98x60x12.8mm
@@ -272,13 +286,6 @@ SMD3225
 0
 4
 4
-Semiconductor
-DIP-10
-
-
-0
-10
-10
 Semiconductor
 LGA-12
 
