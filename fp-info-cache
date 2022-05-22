@@ -1,4 +1,130 @@
-34600436939378
+103819039313379
+Connectors
+CLIFF FC68148
+
+
+0
+3
+3
+Connectors
+ERNI 374380
+DIN41612 5x32 Female Horizontal THT
+
+0
+160
+160
+Connectors
+HARTING 09031966921
+DIN41612 3x32 Male Horizontal THT
+
+0
+96
+96
+Connectors
+HARTING 09732966801
+DIN41612 3x32 Female Horizontal THT
+
+0
+96
+96
+Connectors
+PinHeader 1x01 P2.54mm Horizontal
+
+
+0
+1
+1
+Connectors
+PinHeader 1x01 P2.54mm Vertical
+
+
+0
+1
+1
+Connectors
+PinHeader 1x02 P2.54mm Vertical
+
+
+0
+2
+2
+Connectors
+PinHeader 1x06 P2.54mm Horizontal
+
+
+0
+6
+6
+Connectors
+PinHeader 1x06 P2.54mm Vertical
+
+
+0
+6
+6
+Connectors
+T-T USB-B-04PFHTW
+T-T USB-B-04PFHTW, Lumberg_2411_02
+
+0
+6
+5
+Connectors
+Terminal Block 1x06 P3.81 Straight
+
+
+0
+6
+6
+Connectors
+Terminal Block 1x08 P3.81 Straight
+
+
+0
+8
+8
+Connectors
+TestPoint SMT D1.5mm
+
+
+0
+1
+1
+Others
+CELLEVIA L402036
+
+
+0
+0
+0
+Others
+M3 HOLE
+
+
+0
+0
+0
+Others
+OMRON B3F-3100
+
+
+0
+4
+2
+Others
+POWERTIP NPC2004
+4x20,  98x60x12.8mm
+
+0
+16
+16
+Others
+RAYSTAR REX012832
+
+
+0
+14
+14
 Passive
 C0603
 
@@ -106,7 +232,7 @@ OMRON B3F-3100
 2
 Passive
 R0207 Axial Horizontal
-Resistor, Axial_DIN0207 series, Axial, Horizontal, pin pitch=10.16mm, 0.25W = 1/4W, length*diameter=6.3*2.5mm^2, http://cdn-reichelt.de/documents/datenblatt/B400/1_4W%23YAG.pdf
+
 
 0
 2
@@ -146,3 +272,171 @@ SMD3225
 0
 4
 4
+Semiconductor
+DIP-10
+
+
+0
+10
+10
+Semiconductor
+LGA-12
+
+
+0
+12
+12
+Semiconductor
+LQFP-64-E0.5
+
+
+0
+64
+64
+Semiconductor
+MSOP-10
+
+
+0
+10
+10
+Semiconductor
+SMB
+DO-214AA
+
+0
+2
+2
+Semiconductor
+SO-8-150
+
+
+0
+8
+8
+Semiconductor
+SOD-80
+Mini-MELF
+
+0
+2
+2
+Semiconductor
+SOIC-8
+
+
+0
+8
+8
+Semiconductor
+SOIC-14
+
+
+0
+14
+14
+Semiconductor
+SOIC-18W
+
+SOIC SO
+0
+18
+18
+Semiconductor
+SOIC-24
+
+
+0
+24
+24
+Semiconductor
+SOIC-28W
+7.5x18.7mm_P1.27mm
+SOIC SO
+0
+28
+28
+Semiconductor
+SOT-23
+
+SOT-23
+0
+3
+3
+Semiconductor
+SOT-23-5
+
+SOT-23-5
+0
+5
+5
+Semiconductor
+SOT-223
+module CMS SOT223 4 pins
+CMS SOT
+0
+4
+4
+Semiconductor
+SSOP-8
+
+
+0
+8
+8
+Semiconductor
+SSOP-16
+
+SSOP 0.635
+0
+16
+16
+Semiconductor
+SSOP-28
+
+
+0
+28
+28
+Semiconductor
+TO-252
+TO-252, DPAK
+
+0
+7
+3
+Semiconductor
+TO-263-5
+TO-263, D2PAK, DDPAK 
+
+0
+10
+6
+Semiconductor
+TQFP-64TV
+1EP_10x10mm_P0.5mm_EP8x8mm
+
+0
+74
+65
+Semiconductor
+TQFP-100TV
+14x14mm_P0.5mm_EP5x5mm_ThermalVias
+
+0
+118
+101
+Semiconductor
+TSSOP-24
+
+
+0
+24
+24
+Semiconductor
+VSSOP-8
+
+
+0
+8
+8
